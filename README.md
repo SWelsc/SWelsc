@@ -1,6 +1,6 @@
 Hello everyone and welcome to my github-page!
 
-I have started programming about 8 years ago, when I first got in contact with Linux.
+I have started programming some years ago, when I first got in contact with Linux.
 
 Starting from creating small scripts in bash to automize different kind of CFD simulations, I expanded my personal programming horizon by learning Python.
 
