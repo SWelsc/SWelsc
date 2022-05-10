@@ -1,8 +1,8 @@
 Hello everyone and welcome to my github-page!
 
-I am an automotive engineer from Germany and have started programming about 8 years ago, when I first got in contact with Linux.
+I have started programming about 8 years ago, when I first got in contact with Linux.
 
-Starting from creating small scripts in bash to automize different kind of CFD simulations, I expanded my personal programming horizon by learning Python for my thesis.
+Starting from creating small scripts in bash to automize different kind of CFD simulations, I expanded my personal programming horizon by learning Python.
 
 I used both Python and Linux/Bash quite frequently for improving a lot of aspects of my daily work as simulation engineer ever since, by automatizing repetetive tasks such as data veryfication and analysis.
 
